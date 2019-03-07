@@ -8,3 +8,5 @@ Agora chegou o momento de aprender a usar o diff.
 Esse comando deve ser usado logo após salvarmos o arquivo.
 
 Aprendendo sobre o comando git reset HEAD nome do arquivo.
+
+Enviando alterações para o repositório remoto.
